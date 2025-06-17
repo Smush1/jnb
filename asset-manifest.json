@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/jnb/static/css/main.c400ce4c.css",
-    "main.js": "/jnb/static/js/main.ef27fe7a.js",
+    "main.js": "/jnb/static/js/main.e3da16b3.js",
     "static/js/453.fb84a0b5.chunk.js": "/jnb/static/js/453.fb84a0b5.chunk.js",
     "static/media/category7-img2.png": "/jnb/static/media/category7-img2.10925081ff1b87128dc5.png",
     "static/media/category1-img2.png": "/jnb/static/media/category1-img2.5c1de73616711a38ccac.png",
@@ -42,6 +42,7 @@
     "static/media/Amazon.webp": "/jnb/static/media/Amazon.98aaa877c137be3103bf.webp",
     "static/media/JNB-header-logo.webp": "/jnb/static/media/JNB-header-logo.bc7a8cb0633136a50d62.webp",
     "static/media/baby-liners.webp": "/jnb/static/media/baby-liners.2c0b0b043775fe4d20e0.webp",
+    "static/media/JnB_footer_logo_original.webp": "/jnb/static/media/JnB_footer_logo_original.16c3f1812f386f4cdefc.webp",
     "index.html": "/jnb/index.html",
     "static/media/slick.svg": "/jnb/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/jnb/static/media/slick.a4e97f5a2a64f0ab1323.eot",
@@ -51,11 +52,11 @@
     "static/media/phone.svg": "/jnb/static/media/phone.95276cf8d5fc640963a394b1b3018781.svg",
     "static/media/email.svg": "/jnb/static/media/email.f8102bf773ad36d9c063bda73287fb08.svg",
     "main.c400ce4c.css.map": "/jnb/static/css/main.c400ce4c.css.map",
-    "main.ef27fe7a.js.map": "/jnb/static/js/main.ef27fe7a.js.map",
+    "main.e3da16b3.js.map": "/jnb/static/js/main.e3da16b3.js.map",
     "453.fb84a0b5.chunk.js.map": "/jnb/static/js/453.fb84a0b5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c400ce4c.css",
-    "static/js/main.ef27fe7a.js"
+    "static/js/main.e3da16b3.js"
   ]
 }
