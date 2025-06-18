@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/jnb/static/css/main.a9ca2189.css",
-    "main.js": "/jnb/static/js/main.e3da16b3.js",
+    "main.css": "/jnb/static/css/main.4cdb8d95.css",
+    "main.js": "/jnb/static/js/main.f400a6c9.js",
     "static/js/453.fb84a0b5.chunk.js": "/jnb/static/js/453.fb84a0b5.chunk.js",
     "static/media/category7-img2.png": "/jnb/static/media/category7-img2.10925081ff1b87128dc5.png",
     "static/media/category1-img2.png": "/jnb/static/media/category1-img2.5c1de73616711a38ccac.png",
@@ -29,6 +29,7 @@
     "static/media/featured-img-10.webp": "/jnb/static/media/featured-img-10.76f40f747a2f5123dc8c.webp",
     "static/media/featured-img-5.webp": "/jnb/static/media/featured-img-5.597bd2bb6d1453acbb08.webp",
     "static/media/Napkins.webp": "/jnb/static/media/Napkins.b6f8c3f1f1a80fd93af5.webp",
+    "static/media/jnb-footer-logo-final.png": "/jnb/static/media/jnb-footer-logo-final.d8571e5a709c38be8cc0.png",
     "static/media/testimonial2.webp": "/jnb/static/media/testimonial2.60fd628695de2c8f418a.webp",
     "static/media/jnb-form-btn.svg": "/jnb/static/media/jnb-form-btn.d8818f5f1b45d499498096ad16d487e5.svg",
     "static/media/towels.webp": "/jnb/static/media/towels.b292f34b368d3e616477.webp",
@@ -42,7 +43,6 @@
     "static/media/Amazon.webp": "/jnb/static/media/Amazon.98aaa877c137be3103bf.webp",
     "static/media/JNB-header-logo.webp": "/jnb/static/media/JNB-header-logo.bc7a8cb0633136a50d62.webp",
     "static/media/baby-liners.webp": "/jnb/static/media/baby-liners.2c0b0b043775fe4d20e0.webp",
-    "static/media/JnB_footer_logo_original.webp": "/jnb/static/media/JnB_footer_logo_original.16c3f1812f386f4cdefc.webp",
     "index.html": "/jnb/index.html",
     "static/media/slick.svg": "/jnb/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/jnb/static/media/slick.a4e97f5a2a64f0ab1323.eot",
@@ -51,12 +51,12 @@
     "static/media/slick.woff": "/jnb/static/media/slick.295183786cd8a1389865.woff",
     "static/media/phone.svg": "/jnb/static/media/phone.95276cf8d5fc640963a394b1b3018781.svg",
     "static/media/email.svg": "/jnb/static/media/email.f8102bf773ad36d9c063bda73287fb08.svg",
-    "main.a9ca2189.css.map": "/jnb/static/css/main.a9ca2189.css.map",
-    "main.e3da16b3.js.map": "/jnb/static/js/main.e3da16b3.js.map",
+    "main.4cdb8d95.css.map": "/jnb/static/css/main.4cdb8d95.css.map",
+    "main.f400a6c9.js.map": "/jnb/static/js/main.f400a6c9.js.map",
     "453.fb84a0b5.chunk.js.map": "/jnb/static/js/453.fb84a0b5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a9ca2189.css",
-    "static/js/main.e3da16b3.js"
+    "static/css/main.4cdb8d95.css",
+    "static/js/main.f400a6c9.js"
   ]
 }
